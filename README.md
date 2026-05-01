@@ -24,7 +24,7 @@ I'm a passionate Web and Mobile Developer based in Indonesia. I love crafting di
 
 ### 👨‍💻 Professional Background
 
-- Fullstack Web Developer at PT. Mutuading Tekstil (2024 - present).
+- Fullstack Developer at PT. Mutuading Tekstil (2024 - present).
 - Graduate Student Majoring in Informatics at STMIK Sinar Nusantara (2024).
 - Graduate Student Majoring in Management at the Open University (2024).
 - Fullstack Web Developer at PT. Royal Dparagon Land (2023).
@@ -34,7 +34,7 @@ I'm a passionate Web and Mobile Developer based in Indonesia. I love crafting di
 
 ### 💡 What I'm Up To
 
-- Learning and mastering Laravel, PHP, Livewire, Javascript, HTML, CSS, Kotlin, Figma, Git, MySql, Oracle, JSON, NetBeans, Visual Studio Code, PhpStorm, Adobe Illustrator, Adobe Photoshop, Adobe Premiere Pro, Blender, Corel Draw, JetBrains
+- Learning and mastering Golang, NextJs, Laravel, Livewire, JS, PosstgreSQL, MySQL, Oracle, Kubernetes, CI/CD, Docker
 - Exploring the limitless possibilities of web and mobile development
 
 <h2 align="center">
@@ -55,12 +55,12 @@ I'm a passionate Web and Mobile Developer based in Indonesia. I love crafting di
 
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ilramadhan" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" width="40" height="40" alt="LinkedIn" /></a>
-  <a href="https://twitter.com/ilramadhan_" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/twitter.svg" width="40" height="40" alt="Twitter" /></a>
-  <a href="https://github.com/ilramdhan" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/github.svg" width="40" height="40" alt="GitHub" /></a>
-  <a href="https://discordapp.com/users/568987901724065805" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/discord.svg" width="40" height="40" alt="Discord" /></a>
-  <a href="https://www.instagram.com/ilramadhan_" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/instagram.svg" width="40" height="40" alt="Instagram" /></a>
-  <a href="https://steamcommunity.com/profiles/76561199015659084" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/steam.svg" width="40" height="40" alt="Steam" /></a>
+  <a href="https://www.linkedin.com/in/ilramadhan"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" width="32" /></a>
+  <a href="https://twitter.com/ilramadhan_"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/twitter.svg" width="32" /></a>
+  <a href="https://github.com/ilramdhan"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/github.svg" width="32" /></a>
+  <a href="https://discordapp.com/users/568987901724065805"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/discord.svg" width="32" /></a>
+  <a href="https://www.instagram.com/ilramadhan_"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/instagram.svg" width="32" /></a>
+  <a href="https://steamcommunity.com/profiles/76561199015659084"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/steam.svg" width="32" /></a>
 </p>
 
 ### 🌐 Get in Touch
