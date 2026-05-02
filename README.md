@@ -38,12 +38,27 @@ I'm a passionate Web and Mobile Developer based in Indonesia. I love crafting di
 - Exploring the limitless possibilities of web and mobile development
 
 <h2 align="center">
-  🌟 Skills 🌟
+  Dev
 </h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,php,html,css,bootstrap,tailwind,js,nodejs,jquery,kotlin,ts,react,py," />
-  <img src="https://skillicons.dev/icons?i=idea,phpstorm,webstorm,pycharm,figma,androidstudio,git,github,mysql," />
+  <img src="https://skillicons.dev/icons?i=go,php,laravel,nextjs,react,ts,js,kotlin,py,tailwind,nodejs&perline=12" />
+</p>
+
+<h2 align="center">
+  Infra
+</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,grafana,prometheus,nginx,linux,ubuntu,rabbitmq,postgres,mysql,redis&perline=6" />
+</p>
+
+<h2 align="center">
+  Tools
+</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,git,github,vscode,idea,phpstorm,webstorm,pycharm,androidstudio,postman,npm,&perline=11" />
 </p>
 
 <h2 align="center">
