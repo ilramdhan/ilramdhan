@@ -101,9 +101,8 @@ Feel free to reach out to me if you want to discuss tech, development, or just h
 
 ![](https://raw.githubusercontent.com/ilramdhan/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg)
 
+[![](https://github-act-graph.rodriaum.com/graph?username=ilramdhan&bg_color=09090B&color=FAFAFA&line=FAFAFA&point=FAFAFA&area=true&hide_border=true)](https://github.com/ilramdhan)
+
 <p align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ilramdhan&theme=high-contrast" alt="GitHub Activity Graph" />
-  </a>
     <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
 </p>
